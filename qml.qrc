@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ui/qml/main.qml</file>
+        <file>ui/qml/Errors.qml</file>
+    </qresource>
+</RCC>
